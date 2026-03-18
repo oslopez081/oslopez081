@@ -1,6 +1,6 @@
 # Hi there, I'm Osman López! 👋
 
-### 🩺 Medical Doctor | 💻 Computer Science Apprentice
+### MD & Computer Science Student | Focusing on Health Intelligence & Cybersecurity
 
 I am a medical professional based in Spain, currently embarking on a journey into the world of **Computer Science**. My goal is to combine my clinical background with technology to build safer and smarter healthcare solutions.
 
