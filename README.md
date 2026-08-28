@@ -1,6 +1,6 @@
 # Hi there, I'm Osman López! 
 
-### MD & Computer Science Student | Focusing on Health Intelligence & Cybersecurity
+### MD & Computer Science Student | Focusing on Health Intelligence & Biostatistics
 
 I am a medical professional based in Spain, currently embarking on a journey into the world of **Computer Science**. My goal is to combine my clinical background with technology to build safer and smarter healthcare solutions.
 
@@ -8,7 +8,7 @@ I am a medical professional based in Spain, currently embarking on a journey int
 
 ###  About Me
 - **Student:** Currently studying Computer Science at **University of the People**.
-- **Interests:** I am deeply interested in **AI in Healthcare** (Health Intelligence) and **Healthcare Cybersecurity**.
+- **Interests:** I am deeply interested in **AI in Healthcare** (Health Intelligence) and **Biostatistics**.
 - **Learning Path:** Currently mastering the basics of **HTML, CSS, and Data Analysis**.
 - **Vision:** I believe the future of medicine lies in data security and intelligent systems.
 
